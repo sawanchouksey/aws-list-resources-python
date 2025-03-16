@@ -37,7 +37,7 @@ python aws_list_resources.py --regions ALL --include-resource-types AWS::EC2::*,
 
 ## Example result
 
-Results are written to a JSON file ([see example](doc/example_results.json))
+Results are written to a JSON file ([see example](exampleResultJson/example_results.json))
 
 
 ## Notes
